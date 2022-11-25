@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Akanke</h1>
+<h3 align="center">A junior frontend developer</h3>
 
-<!--
-**Akankeade/Akankeade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **front end projects using Javascript and React**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Javascript, Reactjs**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate with **other frontend developers to showcase and grow my knowledge**
+
+- 👨‍💻 All of my projects are available at [https://akankeportfolio.netlify.app](https://akankeportfolio.netlify.app)
+
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT**
+
+- 📫 How to reach me **akankeopeoluwa@gmail.com**
+
+- ⚡ Fun fact **crazy about learning anything and everything in the tech space**
+
+
